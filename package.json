@@ -20,17 +20,5 @@
   "dependencies": {
     "autoprefixer": "^9.8.4",
     "node": "^14.4.0"
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {
-        "overrideBrowserslist": [
-          ">1%",
-          "last 4 versions",
-          "Firefox ESR",
-          "ie >= 9"
-        ]
-      }
-    }
   }
 }
